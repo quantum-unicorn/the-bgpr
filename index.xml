@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://example.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jul 2021 18:14:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keith</title>
+      <link>https://example.com/keith/</link>
+      <pubDate>Tue, 06 Jul 2021 18:14:19 +0200</pubDate>
+      
+      <guid>https://example.com/keith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About the Boreal Geological Pet Rescue</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>We, the Boreal Geological Pet Rescue, are an organization founded in 2021. We dedicate ourselves to rescuing lonely and abandoned rocks from the wild and finding them a new, loving home.
+Every rock deserves a second chance. That&amp;rsquo;s why we make each of our rescues a profile on our page with a beautiful photo and heartwarming description. So that you too can fall in love with these adorable mineral outcrops.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description>Manticore Search </description>
+    </item>
+    
+  </channel>
+</rss>
