@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://pedantic-snyder-362b5b.netlify.app/posts/</link>
+    <link>https://the-bgpr.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jul 2021 18:14:19 +0200</lastBuildDate>
     
-	<atom:link href="https://pedantic-snyder-362b5b.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://the-bgpr.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Keith</title>
-      <link>https://pedantic-snyder-362b5b.netlify.app/keith/</link>
+      <link>https://the-bgpr.com/keith/</link>
       <pubDate>Tue, 06 Jul 2021 18:14:19 +0200</pubDate>
       
-      <guid>https://pedantic-snyder-362b5b.netlify.app/keith/</guid>
+      <guid>https://the-bgpr.com/keith/</guid>
       <description></description>
     </item>
     
